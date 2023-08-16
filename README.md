@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis
+# Data Analysis of Telecom Customer Churn
 
 This [dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset) comes from an Iranian telecom company, with each row representing a customer over a year period. Along with a churn label, there is information on the customers' activity, such as call failures and subscription length.
 
